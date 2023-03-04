@@ -1,0 +1,43 @@
+body{
+    margin: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info  .input-box{
+    display: flex;
+}
+.info  .input-box label{
+    min-width: 120px;
+}
+.info  .input-box input{
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 300px;
+}
+.info  .input-box textarea{
+    width:305px;
+}
+legend{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+fieldset{
+    padding:  20px 60px;
+}
+.gender{
+    margin-bottom: 20px;
+    }
+    h2{
+        text-transform: uppercase;
+        font-size: xx-large;
+        
+    }
+    .btn{
+        padding: 10px;
+        margin: 10px;
+        font-size: larger;
+        background-color:seagreen;
+        min-width: 200px;
+
+    }
+    
